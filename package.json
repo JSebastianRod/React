@@ -4,5 +4,8 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "rickmortyapi": "^2.3.0"
   }
 }
